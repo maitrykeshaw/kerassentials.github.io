@@ -17,4 +17,4 @@ Allow: /
 User-agent: Storebot-Google
 Allow: /
 
-Sitemap: https://ikaria-lean-belly-juice.vercel.app/sitemap.xml
+Sitemap: https://kerassentials.vercel.app/sitemap.xml
