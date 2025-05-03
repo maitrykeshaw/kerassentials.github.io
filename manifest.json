@@ -1,12 +1,12 @@
 {
-  "name":"PWA Tutorial",
-  "short_name":"PWA",
+  "name":"Kerassentials™ (Official Website) Get $300 OFF + Free Shipping",
+  "short_name":"Kerassentials™",
   "start_url":"index.html",
   "display":"standalone",
   "background_color":"#5900b3",
   "theme_color":"#FF5733",
   "scope": ".",
-  "description":"This is a PWA tutorial.",
+  "description":"Kerassentials is a simple, easy to use supplement for skin, nails, and hair that promotes a healthy appearance.",
   "icons":[
   {
   "src":"icons/favicon-192x192.png",                     
